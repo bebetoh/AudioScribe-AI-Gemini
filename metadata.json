@@ -1,0 +1,7 @@
+{
+  "name": "AudioScribe AI v1.0",
+  "description": "Uma ferramenta inteligente de transcrição de áudio que detecta formatos e utiliza o Gemini 2.5 Flash para transcrições rápidas e precisas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
